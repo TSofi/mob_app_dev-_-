@@ -12,7 +12,6 @@ import android.os.Looper
 import android.view.View
 
 
-
 class NumbDrawningActivity : AppCompatActivity() {
 
     fun lotto(n: Int = 6, m: Int = 49): IntArray {
